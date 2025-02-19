@@ -103,7 +103,7 @@ The frontend will be available at `http://localhost:5173` and backend at `http:/
 ---
 
 ## 📸 Screenshots
-![Login Page](https://github.com/user-attachments/assets/4090d7e3-5257-43ff-91f8-678ae3a220e8)
+
 ![Todo List]([https://via.placeholder.com/800x400](https://github.com/user-attachments/assets/4090d7e3-5257-43ff-91f8-678ae3a220e8))
 
 ---
