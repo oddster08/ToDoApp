@@ -113,13 +113,13 @@ The frontend will be available at `http://localhost:5173` and backend at `http:/
 ![forgot password](https://github.com/user-attachments/assets/082e9ab0-0175-4f88-8f1d-bdffcce30282)
 
 # reset password
-![reset password](https://github.com/user-attachments/assets/47c67462-25f1-444c-871b-7b9b4adf0d61)
+![reset](https://github.com/user-attachments/assets/9ba35ce4-1964-4758-a7aa-87994394c202)
 
 # home page
 ![Home page](https://github.com/user-attachments/assets/0396e222-a592-4af2-bfa3-acc7a9b9df5f)
 
 # searching sorting and filtering section
-![filter](https://github.com/user-attachments/assets/03e3b022-3800-46ac-976a-8d6cfb3425c7)
+![filter](https://github.com/user-attachments/assets/6aa3b372-747f-4b7b-9e0d-8c760554a03c)
 
 ---
 
