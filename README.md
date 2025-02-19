@@ -84,12 +84,13 @@ Create a `.env` file in the **root directory** and add the following:
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
-CLIENT_URL=http://localhost:5173
+JWT_EXPIRE=30d
 ```
 
 ### 4️⃣ Run the Application
 #### 🚀 Start the Backend Server
 ```sh
+cd backend
 npm start
 ```
 #### 💻 Start the Frontend
