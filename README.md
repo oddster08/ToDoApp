@@ -74,12 +74,12 @@ cd todo-app
 
 ### 2️⃣ Install Dependencies
 ```sh
-npm install
-cd client && npm install
+cd backend && npm install
+cd frontend && npm install
 ```
 
 ### 3️⃣ Configure Environment Variables
-Create a `.env` file in the **root directory** and add the following:
+Create a `.env` file in the **backend directory** and add the following:
 ```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
@@ -95,7 +95,7 @@ npm start
 ```
 #### 💻 Start the Frontend
 ```sh
-cd client
+cd frontend
 npm run dev
 ```
 The frontend will be available at `http://localhost:5173` and backend at `http://localhost:5000`.
