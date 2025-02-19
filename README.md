@@ -103,8 +103,23 @@ The frontend will be available at `http://localhost:5173` and backend at `http:/
 ---
 
 ## 📸 Screenshots
+# Login page
+![Login page](https://github.com/user-attachments/assets/4090d7e3-5257-43ff-91f8-678ae3a220e8)
 
-![Todo List]([https://via.placeholder.com/800x400](https://github.com/user-attachments/assets/4090d7e3-5257-43ff-91f8-678ae3a220e8))
+# Register page
+![Register page](https://github.com/user-attachments/assets/95abaa0d-f8c7-4b2f-bc8c-f72aa84031f3)
+
+# forgot password
+![forgot password](https://github.com/user-attachments/assets/082e9ab0-0175-4f88-8f1d-bdffcce30282)
+
+# reset password
+![reset password](https://github.com/user-attachments/assets/47c67462-25f1-444c-871b-7b9b4adf0d61)
+
+# home page
+![Home page](https://github.com/user-attachments/assets/0396e222-a592-4af2-bfa3-acc7a9b9df5f)
+
+# searching sorting and filtering section
+![filter](https://github.com/user-attachments/assets/03e3b022-3800-46ac-976a-8d6cfb3425c7)
 
 ---
 
